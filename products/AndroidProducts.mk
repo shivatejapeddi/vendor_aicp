@@ -88,6 +88,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/vs985.mk \
     $(LOCAL_DIR)/wt88047.mk \
     $(LOCAL_DIR)/wx_na_wf.mk \
+    $(LOCAL_DIR)/x2.mk
     $(LOCAL_DIR)/xt1053.mk \
     $(LOCAL_DIR)/xt1060.mk \
     $(LOCAL_DIR)/Z008.mk \
